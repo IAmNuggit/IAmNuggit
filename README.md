@@ -5,7 +5,7 @@ This is the place where I store stuff and break things
 - :weight_lifting_man: I'm currently working on somethign cool!
 - 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently learning Games Software Engineering
-- 📫 How to reach me: [@LinkedIn][linkedin] or say 👋 on [Email](mailto:chandlerhaines123@gmail.com)
+- 📫 Reach me at: [@LinkedIn][linkedin], [@Twitter][twitter] or say 👋 on [Email](mailto:chandlerhaines123@gmail.com)
 
 
 ### 📊 GitHub Stats:
@@ -14,7 +14,7 @@ This is the place where I store stuff and break things
 
 
 
-
+[twitter]: https://twitter.com/NUGG1T420
 [linkedin]: https://www.linkedin.com/in/chandler-haines-836214222/
 <!---
 IAmNuggit/IAmNuggit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
