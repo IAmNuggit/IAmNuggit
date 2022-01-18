@@ -5,7 +5,7 @@ This is the place where I store stuff and break things
 - :weight_lifting_man: I'm currently working on something cool!
 - 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently learning Games Software Engineering
-- 📫 Reach me at: [Email](mailto:chandlerhaines123@gmail.com) OR the below methods!
+- 📫 Reach me at: [Email](mailto:chandlerhaines123@gmail.com) OR the below methods!!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
