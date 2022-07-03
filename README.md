@@ -1,6 +1,6 @@
 ### Hi there! 
 
-This is the place where I store stuff and break things 
+This is the place where I store stuff and break things.
 
 - :weight_lifting_man: I'm currently working on something cool!
 - 👀 I’m interested in AI and Machine Learning
